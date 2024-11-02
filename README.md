@@ -59,7 +59,7 @@ I'm a Full Stack Engineer passionate about building high-performance distributed
 - ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 - ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 </details>
-
+<!-- 
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -67,8 +67,8 @@ I'm a Full Stack Engineer passionate about building high-performance distributed
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rishav0403&show_icons=true&theme=tokyonight)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rishav0403&theme=tokyonight)
-
 </div>
+ -->
 
 ## 💡 My Engineering Philosophy
 
